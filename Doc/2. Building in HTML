@@ -1,0 +1,17 @@
+2. Building in HTML
+
+The structure of the University HTMl is
+
+	/
+	|
+	|--Doc
+	|
+	|--Section_01
+		|
+		|--Lesson_01
+			|
+			|--Index.html
+
+If you work with Visual Studio code, en File Option > Autosave.
+
+			
