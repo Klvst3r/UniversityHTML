@@ -1,0 +1,53 @@
+5. Atajos
+
+1	En Visual Studio code por medio del plugin Emet
+
+Agrega el codigo HTML Basico
+
+
+Format Document
+
+ciondigurar
+Prettier
+
+
+En Sublime Text lo podemos hacer tambien mediante el mismo plig in Emmet
+
+html:5
+html
+
+
+Medienta la extenseion prettier podemos seleccionar el formato del documento.
+
+Todo para poder hacer mas facil la lectura del documento.
+
+
+Los metas
+
+que pueden agragarse son para la compatibilidad con edge
+
+	<meta name="X-UA-Compatible" content="IE-edge">
+
+Ya que No soportan las caracteristicas mas recientes. de momento no se va a manejar.
+
+
+
+O compatibilidad para dispositivos moviles.
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+La etiqueta title para especificar el titulo
+
+body
+	Etiqueta par el contenido
+
+h1
+	Titulo
+
+p
+	parrafo		
+
+
+
+
