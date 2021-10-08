@@ -1,0 +1,27 @@
+4. Correr aplicaciones con live Server en Visual Studio Code
+
+Para poder visualizar en el navegador empleando el sistema de Live Server de Visual Studio Code.
+
+OPodemos simplemenete dar click derecho o secundario y seleccionar la opción "live Server"
+
+URL Uniform Resource Locator.
+
+Como opcion en el propio editor de Cisual Studio Code en Preview Live Server
+
+Mediante la extension de visualizacion de archivos HTML.
+
+View/ Command Palette CTRL + SHFT + P
+
+	Live Server Preview
+
+
+Cargar el archivo HTMl con su visualización automatica.
+
+
+Y cualquier cambio se refresca en el visualizador con el auto save.
+
+
+
+
+
+
